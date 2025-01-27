@@ -1,4 +1,5 @@
 # Supermarket-shopping-optimization
+A Python-based GUI application that helps users optimize their shopping list within a predefined weight capacity, maximizing the total value of selected items. The application uses the Knapsack Algorithm for optimization and provides an interactive interface for item selection.
 
 # Features
 Interactive GUI: Built using the Tkinter library, providing a clean and user-friendly interface.
