@@ -12,3 +12,5 @@ Remove Items: Allows users to remove items from their list.
 Python 3.x
 tkinter (Pre-installed with Python)
 
+# License
+This project is licensed under the MIT License.
